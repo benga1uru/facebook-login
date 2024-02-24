@@ -90,7 +90,7 @@
 	      <configuration>
 	        <archive>
 	          <manifest>
-	            <mainClass>com.selenium.test.facebook_login.App</mainClass>
+	            <mainClass>com.selenium.test.facebook-login.App</mainClass>
 	          </manifest>
 	        </archive>
 	        <descriptorRefs>
